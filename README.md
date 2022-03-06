@@ -2,6 +2,6 @@
 Deploy Flask on VPS with Gunicorn
 
 ### Update the local package
-'''bash
+```bash
 sudo apt update
-'''
+```
