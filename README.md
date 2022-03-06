@@ -211,11 +211,7 @@ http://yourdomain
 
 ### First, install Certbot using snap
 ```bash
-sudo snap install --classic certbot
-```
-
-```bash 
-sudo ln -s /snap/bin/certbot /usr/bin/certbot
+sudo apt install python3-certbot-nginx
 ```
 
 ```bash
